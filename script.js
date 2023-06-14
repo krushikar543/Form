@@ -28,7 +28,7 @@ function submit(){
 
     if(country.value.length === 0){
         error.innerHTML += "Country field should not be left empty.<br>";
-        country.classList.add('clciked');
+        country.classList.add('clicked');
     }
     else{
         country.classList.remove('clicked');
