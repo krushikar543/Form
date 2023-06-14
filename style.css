@@ -1,0 +1,43 @@
+body{
+    background-color: yellow;
+}
+
+.clicked{
+    border: 2px solid red;
+}
+.heading{
+    text-align: center;
+    color : darkblue;
+    padding: 20px;
+    font-size: 40px;
+}
+
+.form-section{
+    border : 2px solid green;
+    margin: 20px;
+}
+
+.pass_strong{
+    padding : 20px;
+    color : green;
+}
+.pass_weak{
+    padding : 20px;
+    color : red;
+}
+.errordiv{
+    padding : 20px;
+    color : rgb(194, 13, 13);
+}
+.correctdiv{
+    text-align: center;
+    color : green;
+}
+.form-element{
+    padding: 20px;
+}
+.submit-button{
+    text-align : center;
+    margin : 10px;
+    font-size: 40px;
+}
